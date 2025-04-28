@@ -1,18 +1,25 @@
 body{
     background-color: chartreuse;
 }
+img{
+    margin: 10%;
+    border: 5px solid;
+    border-color: black
+}
 h1{
     background-color: antiquewhite;
     margin: 10%;
     padding: 2%;
 }
-img{
-    margin: 10%;
-    border: 5px solid;
-    border-color: black;
-}
 p{
     background-color: antiquewhite;
     margin: 10%;
     padding: 2%;
+}
+table{
+    background-color: antiquewhite;
+    margin: 10%;
+    padding: 2%;
+    border: 5px solid;
+    border-color: black
 }
