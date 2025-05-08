@@ -1,18 +1,31 @@
-body{
-    background-color: chartreuse;
+body {
+    background-color: dodgerblue;
 }
-h1{
-    background-color: antiquewhite;
-    margin: 10%;
-    padding: 2%;
-}
-img{
+
+h1 {
+    background-color: aliceblue;
+    text-align: center;
+    text-decoration-color: black;
     margin: 10%;
     border: 5px solid;
-    border-color: black;
+    border-color: aliceblue;
 }
-p{
-    background-color: antiquewhite;
+
+img {
     margin: 10%;
     padding: 2%;
+    background-color: aliceblue;
+    border: 5px solid;
+    border-color: aliceblue;
+    border-radius: 10%;
+}
+
+p {
+    background-color: aliceblue;
+    text-align: center;
+    text-decoration-color: black;
+    margin: 10%;
+    padding: 2%;
+    border: 5px solid;
+    border-color: aliceblue;
 }

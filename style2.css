@@ -1,25 +1,54 @@
-body{
-    background-color: chartreuse;
+body {
+    background-color: dodgerblue;
 }
-img{
+
+img {
+    margin: 10%;
+    padding: 2%;
+    background-color: aliceblue;
+    border: 5px solid;
+    border-color: aliceblue;
+    border-radius: 10%;
+}
+
+h1 {
+    background-color: aliceblue;
+    text-align: center;
+    text-decoration-color: black;
     margin: 10%;
     border: 5px solid;
-    border-color: black
+    border-color: aliceblue;
 }
-h1{
-    background-color: antiquewhite;
-    margin: 10%;
-    padding: 2%;
-}
-p{
-    background-color: antiquewhite;
-    margin: 10%;
-    padding: 2%;
-}
-table{
-    background-color: antiquewhite;
+
+p {
+    background-color: aliceblue;
+    text-align: center;
+    text-decoration-color: black;
     margin: 10%;
     padding: 2%;
     border: 5px solid;
-    border-color: black
+    border-color: aliceblue;
+}
+
+table {
+    background-color: antiquewhite;
+    width: 100%;
+    border: 5px solid;
+    border-color: black;
+}
+
+th,
+td {
+    background-color: antiquewhite;
+    width: 25%;
+    text-align: left;
+    vertical-align: top;
+    border: 1px solid;
+    border-color: black;
+    padding: 1%;
+    caption-side: bottom;
+}
+
+caption {
+    padding: 1%;
 }
